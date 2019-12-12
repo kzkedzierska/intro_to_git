@@ -7,3 +7,7 @@ First, let's stop here in the initial commit.
 In the second commit ("Adding new text to README") we are adding this line here :).
 
 Now I created a new branch, in which I written this line and commited it ("New line in a new branch!").
+
+## Slides:
+
+I added the slides in PDF, but you can also access them here: http://bit.ly/intro_to_git
