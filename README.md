@@ -1,18 +1,26 @@
 # INTRO TO GIT
 
-Welcome to this gentle Introduction to Git. This 2 hour tutorial aims to:
-* introduce the fundamentals of Git
-* explain the benefits of using git
+Welcome to the repository with materials for the Introduction to Managing Code with Git. This 2 hour tutorial aims to:
+* explain basic concepts of Git
+* highlight the benefits of version control and Git
 * show the pivotal commands and essential
 
 ## Slides
 
-PDF of the slides is available in [this directory](./slides.pdf) and live versions is available at [bit.ly/intro_to_git](http://bit.ly/intro_to_git).
+PDF with slides can be found in [this directory](./slides.pdf) and live version is available at GSlides here: [bit.ly/intro_to_git](http://bit.ly/intro_to_git).
 
 ## Content
 
-This repository contains the code_snippet with all the code shown on the slides.
+This repository contains:
 
-Also, it contains few exercises with instructions and the responses.  
+* [code_snippet](code_snippet.sh) with all the code shown on the slides,
+* few exercises with instructions and solutions,
+* and the [instructions on how to prepare](How_to_prepare.md) for the workshop.
 
 ## Resources
+
+* [Official Git documentation](https://git-scm.com/docs/gittutorial)
+* [Visualise Git History](https://github.githistor y.xyz/)
+* [List of Git tutorials](https://gist.github.com/jaseemabid/1321592)
+* [Learn Git Branching](https://learngitbranching.js.org/)
+* [Happy Git with R](https://happygitwithr.com/)
