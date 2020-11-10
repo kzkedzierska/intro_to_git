@@ -13,6 +13,6 @@ PDF of the slides is available in [this directory](./slides.pdf) and live versio
 
 This repository contains the code_snippet with all the code shown on the slides.
 
-Also, it contains few exercises with instructions and the responses.
+Also, it contains few exercises with instructions and the responses.  
 
 ## Resources
