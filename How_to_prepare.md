@@ -66,10 +66,10 @@ git config --global user.name "Jenny Doe"
 git config --global user.email jennygoe@example.com
 ```
 
-### Optional: setting up SSH keys
+## Optional: setting up SSH keys
 To make working with remote easier I would recommend setting the ssh key.
 
-#### Creating ssh-key
+### Creating ssh-key
 First, we need to create a key. We can do that by simply typing in ssh-keygen in our console. This will result in 2048 bit RSA key.
 
 ```bash
@@ -118,7 +118,7 @@ There is much more to the ssh-keygen program than what's described above, I defi
 man ssh-keygen
 ```
 
-### Adding generated key to Git client
+## Adding generated key to Git client
 In brief, you need to copy the content of the `.pub` key and paste it in a specific place in your account settings.
 
 To help with copying I recommend `xclip`. With Ubuntu you can install it as follows:
