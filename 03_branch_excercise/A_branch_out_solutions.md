@@ -26,14 +26,14 @@ Check the status and the change of the file.
 
 ```bash
 git status
-head checking_out_branches.txt
+cat checking_out_branches.txt
 ```
 
 Now, checkout and see if you can see the changes on the master branch.
 
 ```bash
 git status
-head checking_out_branches.txt
+cat checking_out_branches.txt
 ```
 
 
