@@ -24,6 +24,12 @@ echo "Let's see what that gets us." >> checking_out_branches.txt
 git add . && git commit -m "Putting in the second edit"
 ```
 
+Go back to the master branch
+
+```bash
+git checkout master
+```
+
 Now, the merging.
 
 ```bash
