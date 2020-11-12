@@ -14,13 +14,13 @@ PDF with slides can be found in [this directory](./slides.pdf) and live version 
 This repository contains:
 
 * [code_snippet](code_snippet.sh) with all the code shown on the slides,
-* few exercises with instructions and solutions,
+* few exercises with instructions and solutions - 5 in total (3 on branching),
 * and the [instructions on how to prepare](How_to_prepare.md) for the workshop.
 
 ## Resources
 
 * [Official Git documentation](https://git-scm.com/docs/gittutorial)
-* [Visualise Git History](https://github.githistor y.xyz/)
+* [Visualise Git History](https://github.githistory.xyz/)
 * [List of Git tutorials](https://gist.github.com/jaseemabid/1321592)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Happy Git with R](https://happygitwithr.com/)
