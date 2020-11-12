@@ -3,7 +3,7 @@
 Welcome to the repository with materials for the Introduction to Managing Code with Git. This 2 hour tutorial aims to:
 * explain basic concepts of Git
 * highlight the benefits of version control and Git
-* show the pivotal commands and essential
+* show the pivotal commands
 
 ## Slides
 
