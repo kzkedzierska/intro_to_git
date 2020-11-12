@@ -48,7 +48,7 @@ git add README
 git status
 
 # look up git add manual
-man git add
+git help add
 
 # make your first commit
 git commit -m "initial commit"
