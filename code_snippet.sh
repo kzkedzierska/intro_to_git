@@ -55,3 +55,6 @@ git commit -m "initial commit"
 
 # and check repository status
 git status
+
+# remove the file
+git rm this_other_file.txt
