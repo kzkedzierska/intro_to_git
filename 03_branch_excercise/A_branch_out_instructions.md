@@ -6,11 +6,10 @@ Copy the file we created in the previous exercise.
 
 Create a new branch to play around.
 
-Add the changes to the file:
+Change the file by adding
 
 > We're increasing the complexity! 
 
-Commit them.
+Commit this change.
 
-Checkout and check if the change is there on the master branch.
-
+Checkout the master branch and see if the change is there.
