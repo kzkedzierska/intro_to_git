@@ -1,7 +1,7 @@
 Copy the last file we created.
 
 ```bash
-cp ../02_ammend_commit/commitment_issues.txt checking_out_branches.txt
+cp commitment_issues.txt checking_out_branches.txt
 ```
 
 Create new branch.
