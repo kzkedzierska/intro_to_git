@@ -51,7 +51,7 @@ git status
 git help add
 
 # make your first commit
-git commit -m "initial commit"
+git commit -m "Initial commit"
 
 # and check repository status
 git status
