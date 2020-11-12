@@ -26,5 +26,5 @@ And amend last commit.
 
 ```bash
 git add .
-git commit --ammend
+git commit --amend
 ```
